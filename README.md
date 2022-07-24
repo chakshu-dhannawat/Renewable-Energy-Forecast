@@ -1,4 +1,4 @@
-# Renewale-Energy-Forecast
+# Renewable-Energy-Forecast
 
 In this repository I have experimented with the [Temporal Fusion Transformer](https://www.sciencedirect.com/science/article/pii/S0169207021000637), TFT's in short, algorithm for forecasting future demand/production of renewable energy.
 
